@@ -7,7 +7,9 @@ title: Ryan Clement's CV
 <div id="webaddress">
 <a href="rkclement@gmail.com">rkclement@gmail.com</a>
 | <a href="http://rkclement.github.io/">rkclement.github.io/</a>
-| <a href="https://twitter.com/rkclement">@rkclement</a>
+</div>
+<div id='webaddress2'>
+<a href="https://twitter.com/rkclement">@rkclement</a>
 | <a href="tel:+1-267-872-9067">267/872.9067</a>
 </div>
 
@@ -33,6 +35,10 @@ __University of Michigan__
 - Psychology, Comparative Literature
 
 ### Professional Education
+`2018`
+__Carpentries Instructor Certification__
+
+- Received certification to teach Software Carpentry, Data Carpentry, and Library Carpentry workshops. Learned pedagogical concepts and evidence-based teaching practices such as crafting learning outcomes, live coding, formative assessment, and techniques for motivating diverse learners. Learned to apply these concepts to workshops teaching coding and data manipulation for novice learners.
 
 `2017`
 __ACRL Assessment in Action__

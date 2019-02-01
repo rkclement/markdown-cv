@@ -80,6 +80,7 @@ code {
 p code {
 	position: absolute;
 	left: -14%;
+	color: #255c89;
 }
 
 
@@ -162,8 +163,9 @@ a:hover {
 
 #webaddress {
 	margin-top: 1em;
-	position: relative;
-	left: 33%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30em;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
@@ -171,6 +173,16 @@ a:hover {
 
 #webaddress a {
 	text-decoration: none;
+}
+
+#webaddress2 {
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 19em;
+	color: #aaa;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
 }
 
 em {
