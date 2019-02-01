@@ -13,6 +13,7 @@ title: Ryan Clement's CV
 
 ## Education
 
+### Academic Credentials
 `2012`
 __University of Michigan School of Information__
 
@@ -31,7 +32,34 @@ __University of Michigan__
 - *Bachelor of Arts*
 - Psychology, Comparative Literature
 
+### Professional Education
 
+`2017`
+__ACRL Assessment in Action__
+
+- *Vermont Technical College*
+- Identified methods for connecting assessment projects to institutional goals and communicating their results. Learned how to apply action research methodology to personal and institutional assessment projects.}}
+
+`2016`
+__ACRL Immersion: Teacher Track__
+
+- *Champlain College*
+- Learned to design meaningful instructional activities in a systematic fashion. Analyzed and assessed personal habits, motivations, and styles to improve instructional repertoire. Learned assessment techniques and strategies to improve practice and outcomes.
+
+__DLF eResearch Network__
+- Worked to begin developing praxis-based agenda for institutional data services and digital scholarship support. Developed an insitutional plan for an institutional repository. Developed our local and institutional community of practice.
+
+`2015`
+__Data Carpentry__
+
+- *White Stag Building, Oregon State University*
+- Learned tools such as OpenRefine, Python, and the Bash shell for use in data science. Learned about the Data Carpentry method and plan for instruction.
+
+`2014`
+__Providing Social Science Data Services__
+
+- *Inter-university Consortium for Political and Social Research (ICPSR)*
+- Learned methods for managing data collections, providing data reference services, research data management and curation, and building a sustainable data services program.
 
 ## Experience
 
@@ -140,22 +168,114 @@ __Walking a mile in the user's shoes: Customer journey mapping as a method to un
     - With J Marquez \& A Downey. 
     - DOI: 10.1080/10875301.2015.1107000
 
-### Patents
+### Presentations
 
+`2017`
+__Library & laboratory: institutionalizing a dynamic digital projects infrastructure across workgroups__
+
+- *Digital Library Federation Forum*
+- With P Wallace
+    
+__Looking at the library data in the mirror: taking our own advice about data management__
+
+- *IASSIST Annual Conference*
+    
+`2016`
+__It takes a village: Collaboratively building a cross-disciplinary digital repository__
+
+- *Digital Library Federation Forum*
+- With W Shook & P Wallace
+    
+__Collaborating across units to support digital scholarship__
+
+- *Oberlin Digital Scholarship Conference*
+- With A Peaker & P Wallace
+
+__Beyond finding and managing: Extending research data services at liberal arts institutions__
+
+- *Oberlin Digital Scholarship Conference*
+    
+__Measuring up: How are we defining success for research data services?__
+
+- *Research Data Access & Preservation Summit*
+- With H Coates, J Carlson, M Henderson, L Johnston, & Y Shorish
+    
+`2015`
+__NW5C research data management & curation workshop: A collaborative model for liberal arts colleges__
+
+- *Digital Library Federation Liberal Arts Pre-Conference*
+- With A Blau & P Abbaspour
+    
+__Think like a scholar: Using the ACRL Framework to shape collaborative, discipline-based information literacy instruction__
+
+- *Oregon Library Association Annual Conference*
+- With A Downey & E Conor
+
+__Where's the data? - Building data services for liberal arts colleges__
+
+- *Association of College and Research Libraries Conference*
+- With G Bastone & K Partlo
+
+`2014`
+__Reed College Dataverse pilot project__
+
+- *Pacific Northwest Data Curators Biannual Meeting*
+     
 `2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+__The DIY conference: A communities of practice model for library student development__
 
+- *Michigan Library Association Annual Conference*
+- With M Cherem & K Davenport
+    
+__Unusual backgrounds: Broadening the scope of library experience__
 
-## Occupation
+- *Quasi-Con, University of Michigan School of Information*
+- With N Herman-Aplet, G Iverson, & P Timmons
 
-`1600`
-__Royal Mint__, London
+### Posters
+`2012`
+__The blueprint as a map: Designing better data services with service blueprinting__
 
-- Warden
-- Minted coins
+- *Research Data Access & Preservation Summit
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Workshops
+`2019`
+__[Software Carpentry: R](https://rkclement.github.io/2019-01-17-middlebury/)__
+
+- *Middlebury College*
+- Secured funding from multiple campus groups across the humanities, sciences, and social sciences. Organized and planned for workshop, including budgeting, outreach, and on-site facilitation. Co-taught the workshop, teaching novice learners about the bash shell, version control with git, and R/RStudio for data manipulation, analysis, and visualization.
+
+`2017`
+__You can too! Running a successful data bootcamp for novices__
+
+- *IASSIST Annual Conference*
+- Participants in this workshop will learned about v 1.0 (2015) and 2.0 (2016) of a multi-day data bootcamp for novice users in the humanities and humanistic social sciences that was held at Middlebury College. This workshop covered topics such as managing, cleaning, and documenting data, as well as data visualization, mapping, and working with textual data. In addition to hearing about what worked for Middlebury, participants worked together to determine audience needs, learning objectives, and tools. Potential workshop plans that were developed focused on active learning methods and free and/or open-source tools and data to increase accessibility.
+
+`2015`
+__Northwest Five Consortium Data Management & Curation Workshop__
+
+- *Reed College*
+- Served as project manager, including writing a successful mini-grant proposal for funding from the Consortium, assisting with budget, organizing and leading bi-weekly planning meetings, and on-site facilitation during workshop.
+
+## Professional Affiliations
+`since 2015`
+__Digital Library Federation__
+
+- Institutional Member, active in planning annual conferences
+
+`since 2014`
+__International Association for Social Science Information Services & Technology__
+
+`since 2014`
+__Inter-university Consortium for Political and Social Research__
+
+- Official/Designated Representative
+
+`2013 - 2016`
+__Pacific Northwest Data Curators__
+
+`since 2011`
+__American Library Association, Association of College & Research Libraries__
 
 
 
