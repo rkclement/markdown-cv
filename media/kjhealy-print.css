@@ -71,15 +71,16 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #aaa;
 }
 
 p code {
 	position: absolute;
 	left: -11%;
+	color: #6a6517;
 }
 
 
@@ -92,11 +93,11 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
+li:before {
+	content: "+";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -162,17 +163,36 @@ a:hover {
 	color:#39f
 }
 
+ul.loc-name {
+	list-style: none;
+}
+
+li.loc-name:before {
+	content:" ";
+}
+
 #webaddress {
 	margin-top: 1em;
-	position: relative;
-	left: 28%;
-	color: #ccc;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30em;
+	color: #6a6517;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
 }
 
 #webaddress a {
 	text-decoration: none;
+}
+
+#webaddress2 {
+	margin-top: 1em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 19em;
+	color: #6a6517;
+	font-family: Menlo,monospace,sans-serif;
+	font-size: 80%;
 }
 
 em {

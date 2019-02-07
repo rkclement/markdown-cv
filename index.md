@@ -13,64 +13,9 @@ title: Ryan Clement's CV
 | <a href="tel:+1-267-872-9067">267/872.9067</a>
 </div>
 
-## Education
-
-### Academic Credentials
-`2012`
-__University of Michigan School of Information__
-
-- {:.loc-name}*Master of Science in Information*
-- Library & Information Science, Human-Computer Interaction
-
-`2006`
-__Temple University__
-
-- {:.loc-name}*Master of Arts*
-- Philosophy
-
-`2003`
-__University of Michigan__
-
-- {:.loc-name}*Bachelor of Arts*
-- Psychology, Comparative Literature
-
-### Professional Education
-`2018`
-__Carpentries Instructor Certification__
-
-- Received certification to teach Software Carpentry, Data Carpentry, and Library Carpentry workshops. Learned pedagogical concepts and evidence-based teaching practices such as crafting learning outcomes, live coding, formative assessment, and techniques for motivating diverse learners. Learned to apply these concepts to workshops teaching coding and data manipulation for novice learners.
-
-`2017`
-__ACRL Assessment in Action__
-
-- {:.loc-name}*Vermont Technical College*
-- Identified methods for connecting assessment projects to institutional goals and communicating their results. Learned how to apply action research methodology to personal and institutional assessment projects.}}
-
-`2016`
-__ACRL Immersion: Teacher Track__
-
-- {:.loc-name}*Champlain College*
-- Learned to design meaningful instructional activities in a systematic fashion. Analyzed and assessed personal habits, motivations, and styles to improve instructional repertoire. Learned assessment techniques and strategies to improve practice and outcomes.
-
-__DLF eResearch Network__
-
-- Worked to begin developing praxis-based agenda for institutional data services and digital scholarship support. Developed an insitutional plan for an institutional repository. Developed our local and institutional community of practice.
-
-`2015`
-__Data Carpentry__
-
-- {:.loc-name}*White Stag Building, Oregon State University*
-- Learned tools such as OpenRefine, Python, and the Bash shell for use in data science. Learned about the Data Carpentry method and plan for instruction.
-
-`2014`
-__Providing Social Science Data Services__
-
-- {:.loc-name}*Inter-university Consortium for Political and Social Research (ICPSR)*
-- Learned methods for managing data collections, providing data reference services, research data management and curation, and building a sustainable data services program.
-
 ## Experience
 
-`2015 - Present`
+`2015 - `
 __Data Services Librarian__
 
 - {:.loc-name}*Middlebury College, Middlebury, VT*
@@ -115,6 +60,60 @@ __Master’s Student Research Assistant, P.A.V.E.L. Project__
 - {:.loc-name}*University of Michigan School of Information*
 - Assisted in the testing and deployment of virtualized digital archival tools for use in classroom instruction. Created and edited technical documentation for tools and virtualization process. Wrote and edited case studies related to the various courses involved in the project.
 - Maintained the [project website](http://www.virtualarchiveslab.org) using Drupal, including: managing users; updating modules; creating, editing, and ingesting content; and performing basic information architecture duties.
+
+## Education
+
+### Academic Credentials
+`2012`
+__University of Michigan School of Information__
+
+- {:.loc-name}*Master of Science in Information*
+- Library & Information Science, Human-Computer Interaction
+
+`2006`
+__Temple University_
+- {:.loc-name}*Master of Arts*
+- Philosophy
+
+`2003`
+__University of Michigan__
+
+- {:.loc-name}*Bachelor of Arts*
+- Psychology, Comparative Literature
+
+### Professional Education
+`2018`
+__Carpentries Instructor Certification__
+
+- Received certification to teach Software Carpentry, Data Carpentry, and Library Carpentry workshops. Learned pedagogical concepts and evidence-based teaching practices such as crafting learning outcomes, live coding, formative assessment, and techniques for motivating diverse learners. Learned to apply these concepts to workshops teaching coding and data manipulation for novice learners.
+
+`2017`
+__ACRL Assessment in Action__
+
+- {:.loc-name}*Vermont Technical College*
+- Identified methods for connecting assessment projects to institutional goals and communicating their results. Learned how to apply action research methodology to personal and institutional assessment projects.}}
+
+`2016`
+__ACRL Immersion: Teacher Track__
+
+- {:.loc-name}*Champlain College*
+- Learned to design meaningful instructional activities in a systematic fashion. Analyzed and assessed personal habits, motivations, and styles to improve instructional repertoire. Learned assessment techniques and strategies to improve practice and outcomes.
+
+__DLF eResearch Network__
+
+- Worked to begin developing praxis-based agenda for institutional data services and digital scholarship support. Developed an insitutional plan for an institutional repository. Developed our local and institutional community of practice.
+
+`2015`
+__Data Carpentry__
+
+- {:.loc-name}*White Stag Building, Oregon State University*
+- Learned tools such as OpenRefine, Python, and the Bash shell for use in data science. Learned about the Data Carpentry method and plan for instruction.
+
+`2014`
+__Providing Social Science Data Services__
+
+- {:.loc-name}*Inter-university Consortium for Political and Social Research (ICPSR)*
+- Learned methods for managing data collections, providing data reference services, research data management and curation, and building a sustainable data services program.
 
 ## Skills
 
