@@ -15,7 +15,7 @@ title: Ryan Clement's CV
 
 ## Experience
 
-`2015 - `
+`2015 - present`
 __Data Services Librarian__
 
 - {:.loc-name}*Middlebury College, Middlebury, VT*
