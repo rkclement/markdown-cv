@@ -7,6 +7,7 @@ title: Ryan Clement's CV
 <div id="webaddress">
 <a href="rkclement@gmail.com">rkclement@gmail.com</a>
 | <a href="http://rkclement.github.io/">rkclement.github.io/</a>
+    </br>
 <a href="https://twitter.com/rkclement">@rkclement</a>
 | <a href="tel:+1-267-872-9067">267/872.9067</a>
 </div>
